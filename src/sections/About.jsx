@@ -69,7 +69,7 @@ const About = () => {
                         </div>
                         <div>
                             <p className='grid-headtext'>
-                                I work remotely across most timezones.
+                                I work remotely observing West African Time(WAT). 
                             </p>
                             <p className='grid-subtext'>I'm based in Nigeria, with remote work available.</p>
                             <Button name='Contact Me' isBean containerClass='w-full mt-10'/>
@@ -83,11 +83,11 @@ const About = () => {
                         <img src='/assets/grid3.png' alt='grid-3' className='w-full sm:h-[266px] h-fit object-contain'/>
 
                         <div >
-                            <p className='grid-headtext'>  My Passion for Coding</p>
+                            <p className='grid-headtext'>  My Passion for Coding and design</p>
                         </div>
 
                         <div>
-                            <p  className='grid-subtext'>I love solving problems and building things through code.</p>
+                            <p  className='grid-subtext'>I love solving problems and building things through code. Design has always being a way of expressing my ideas.</p>
                         </div>
 
                     </div>
