@@ -26,8 +26,8 @@ const About = () => {
 
                         <div>
                             <p className='grid-headtext'>Hi, I'm Divine-Clinton</p>
-                            <p className='grid-subtext'>With 2 years of experience. I have honed my skills in frontend and
-                              backend development, with a focus on animated 3D websites.</p>
+                            <p className='grid-subtext'>With 2 years of experience. I have honed my skills in frontend development and
+                              UI design. Problem solving skills has led me to founding Ezi Ndu and Igbanye Oku. I spend my personal time writing my very own novel, 'Catena of Magic'</p>
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@ const About = () => {
 
                         <div>
                             <p className='grid-headtext'>Tech Stack</p>
-                            <p className='grid-subtext'>I specialize in Javascript with a focus on React and Next.js ecosystems.</p>
+                            <p className='grid-subtext'>I specialize in Javascript with a focus on React and Next.js ecosystems. I also utilize figma and inkscape for graphic designs.</p>
                         </div>
                     </div>
                 </div>
