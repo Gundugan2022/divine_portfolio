@@ -57,7 +57,7 @@ export const clientReviews = [
 ];
 
 export const myProjects = [
-    {
+   /* {
         title: 'Podcastr - AI Podcast Platform',
         desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
         subdesc:
@@ -130,13 +130,13 @@ export const myProjects = [
                 path: '/assets/framer.png',
             },
         ],
-    },
+    },*/
     {
-        title: 'CarePulse - Health Management System',
+        title: 'Leved - Health Management System',
         desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
         subdesc:
-            'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-        href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+            'With a focus on efficiency, Leved integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
+        href: 'https://neved.vercel.app',
         texture: '/textures/project/project3.mp4',
         logo: '/assets/project-logo3.png',
         logoStyle: {
@@ -170,7 +170,7 @@ export const myProjects = [
             },
         ],
     },
-    {
+    /*{
         title: 'Horizon - Online Banking Platform',
         desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
         subdesc:
@@ -243,7 +243,7 @@ export const myProjects = [
                 path: '/assets/framer.png',
             },
         ],
-    },
+    },*/
 ];
 
 export const calculateSizes = (isSmall, isMobile, isTablet) => {
@@ -260,17 +260,17 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
     {
         id: 1,
-        name: 'Framer',
-        pos: 'Lead Web Developer',
-        duration: '2022 - Present',
-        title: "Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
+        name: 'Ezi Ndu',
+        pos: 'Senior Web developer',
+        duration: '2024 - Present',
+        title: "Ezi Ndu serves as a medical blog providing information about disease. From the symptoms down to the history, Ezi Ndu helps promote health.",
         icon: '/assets/framer.svg',
         animation: 'victory',
     },
     {
         id: 2,
-        name: 'Figma',
-        pos: 'Web Developer',
+        name: 'AMSA',
+        pos: 'Graphic developer',
         duration: '2020 - 2022',
         title: "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
         icon: '/assets/figma.svg',
@@ -278,10 +278,10 @@ export const workExperiences = [
     },
     {
         id: 3,
-        name: 'Notion',
-        pos: 'Junior Web Developer',
-        duration: '2019 - 2020',
-        title: "Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.",
+        name: 'Catena of Magic',
+        pos: 'Author',
+        duration: '2024 - 2020',
+        title: "Catena of Magic ,COM, is a fantasy novel implementing a magical system.",
         icon: '/assets/notion.svg',
         animation: 'salute',
     },
